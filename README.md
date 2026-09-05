@@ -1,2 +1,2 @@
 # chime-in
-A ahareable via link greoup greeting card board
+A group greeting card board in masonry tile style for signing and sharing via common link across teams!
